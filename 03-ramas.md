@@ -54,14 +54,4 @@ Podemos cambiar a una rama con el siguiente ejemplo:
 $ git checkout nombreDeLaNuevaRama
 ```
 
-### Trackear una rama remota
 
-```
-$ git checkout --track repositorioRemotoEnlazado/ramaATrackear
-```
-
-### Borrar una rama remota
-
-```
-$ git push repositorioRemotoEnlazado --delete nombreDeLaRama
-```

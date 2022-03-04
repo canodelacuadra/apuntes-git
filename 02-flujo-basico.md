@@ -66,7 +66,7 @@ $ git commit --amend
 
 ## push
 
-### Empujando nuestors cambios a otro repositorio
+### Empujando nuestors cambios a otro repositorio remoto
 
 Hasta ahora con el commit hemos grabado nuestros cambios en nuestro repositorio en local, vamos ahora a empujar nuestros cambios hacia cualquier repositorio que tengamos enlazado.
 Para enlazarlo
