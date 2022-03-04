@@ -8,7 +8,6 @@
 `` git log --oneline``
 * git commit -am evita el add
 * git commit --amend realizar modificaciones en el ultimo commit sin crear un commit nuevo
-* git checkout elimina el ultimo archivo
 * git branch muestra las ramas
 * git branch nueva-rama
 * git checkout nueva-rama
